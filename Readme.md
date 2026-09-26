@@ -85,7 +85,7 @@ The dashboard is designed with interactive filters and multiple analytical views
 ### 🏠 Overview Dashboard
 
 <p align="center">
-  <img src="AIRBNB 01.PNG" width="900">
+  <img src="AIRBNB 02.PNG" width="900">
 </p>
 
 **Includes:**
